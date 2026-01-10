@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 catalogue:
-  message: "Welcome to Library catalogue related production mother fucker here APIs "
+  message: "Welcome to Library catalogue related prod hoock APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
